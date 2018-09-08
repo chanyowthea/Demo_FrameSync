@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1601902372
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94b143aa142737c6db6bf932372e8962
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Hero/yase/hero_yase.mat
+Dependencies:
+- "D:/FF/Test/\u5E27\u540C\u6B65/moba/Assets/AssetBundle/prefab/hero/yase/hero_yase_tga"

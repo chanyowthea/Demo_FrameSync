@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1951230201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 406db322bc36e7a3daeefeba71315d6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2bc3a9307572caaee05907fdbfdfbaed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Hero/houyi/houyi.prefab
+Dependencies:
+- "D:/FF/Test/\u5E27\u540C\u6B65/moba/Assets/AssetBundle/prefab/hero/houyi/hero_houyi_mat"

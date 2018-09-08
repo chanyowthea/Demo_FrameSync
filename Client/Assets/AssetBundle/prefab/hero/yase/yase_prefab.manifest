@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1465838448
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51f1b46c40dd87e0f7d494018a6fd280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 426c960fd82e1fc0abecc5d82b72ec1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40c01f1b822b1b3418fc37fff262c92d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4964901e30b5a834c92c810b67ed75be, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/Hero/yase/yase.prefab
+Dependencies:
+- "D:/FF/Test/\u5E27\u540C\u6B65/moba/Assets/AssetBundle/prefab/hero/yase/hero_yase_mat"
