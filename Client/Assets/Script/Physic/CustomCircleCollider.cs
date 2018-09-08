@@ -38,6 +38,7 @@ public class CustomCircleCollider : CustomCollider
         Gizmos.color = tColor;
         Handles.color = tColor;
         Handles.CircleHandleCap(0, pos, Quaternion.Euler(90, 0, 0), radius.value, EventType.Repaint);
+        Gizmos.DrawWireSphere(transform.position, mRadius.value); 
 #endif
     }
 #if UNITY_EDITOR
